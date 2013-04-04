@@ -1,0 +1,22 @@
+
+title "Боремся с неорганизованной преступностью с помощью Batman.js"
+
+description "Боремся с неорганизованной преступностью с помощью Batman.js"
+
+# theme "hack"
+resources "resources"
+
+pause_message "Visit github.com/burtlo/parade"
+
+template "default", "default.erb"
+section "Вступление" do
+  slides "intro.md"
+end
+
+section "javascript"
+section "coffeescript"
+section "batmanjs"
+
+section "Заключение" do
+  slides "conclusion.md"
+end
