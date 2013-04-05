@@ -2,3 +2,6 @@ title "Javascript"
 
 slides "javascript.md"
 slides "history.md"
+slides "possibilities.md"
+slides "prototypes.md"
+slides "prototypes_2.md"
