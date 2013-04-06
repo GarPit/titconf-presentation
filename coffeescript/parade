@@ -1,3 +1,5 @@
 title "Coffeescript"
 
 slides "instrument.md"
+slides "coffeescript.md"
+slides "comparison.md"
