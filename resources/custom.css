@@ -1,16 +1,24 @@
 /* customr css and js files included at the top level of your presentation will
  * will be included in your presentation */
 
+body {
+    font-family: "daysregular", Helvetica, Arial, sans-serif;
+}
+
 .slide {
-    border-top: 5px solid red;
+    outline: 5px solid red;
+    outline-offset: -10px;
+}
+
+.smbullets > ul > li {
+    text-align: left;
 }
 
 .branding {
-    border-bottom: 5px solid red;
     height: 50px;
     position: absolute;
-    top: 684px;
-    right: 0px;
+    top: 670px;
+    right: 10px;
     width: 1024px;
 }
 .branding img {
