@@ -2,20 +2,20 @@
 
 # Сравнение
 
-## Javascript
-
-```javascript
-var say = function(speech) {
-  alert(speech);
-};
-say("Машина тютю!");
-```
-
 ## Coffeescript
 
 ```coffeescript
 say = (speech) ->
   alert speech
 
-say "Машина тютю!"
+say "Врхлмнтыттыщ!"
+```
+
+## Javascript
+
+```javascript
+var say = function(speech) {
+  alert(speech);
+};
+say("Врхлмнтыттыщ!");
 ```

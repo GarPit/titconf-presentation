@@ -6,8 +6,6 @@
 
 # О себе
 
-Я
-
 ![octocat](images/octocat.png)
 
 ![ruby](images/ruby.png)

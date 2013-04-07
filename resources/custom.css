@@ -10,6 +10,19 @@ body {
     outline-offset: -10px;
 }
 
+.slide[data-sequence='12'] .container_12 .grid_6 {
+    width: 350px;
+}
+
+.slide[data-sequence='12'] .container_12 :last-child {
+    width: 570px;
+}
+
+img[alt="sugar"] {
+    margin-left: 400px;
+    margin-top: -200px;
+}
+
 .smbullets > ul > li {
     text-align: left;
 }
