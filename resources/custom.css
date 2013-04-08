@@ -18,6 +18,28 @@ body {
     width: 570px;
 }
 
+.slide[data-sequence='29'] .content p {
+    margin: 0px;
+}
+.slide[data-sequence='29'] .content ul li {
+    font-size: 50%;
+}
+
+.slide[data-sequence='29'] .content ul li pre {
+    margin: .5em 40px;
+}
+.slide[data-sequence='30'] {
+    opacity: .4 !important;
+}
+
+#supersized {
+    position: absolute;
+    top: 0px;
+    left: 288px;
+    width: 1024px;
+    height: 768px;
+}
+
 img[alt="sugar"] {
     margin-left: 400px;
     margin-top: -200px;
