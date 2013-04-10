@@ -10,6 +10,14 @@ body {
     outline-offset: -10px;
 }
 
+.slide[data-sequence='1'] .content .word7 {
+    color: #47497c;
+}
+
+.slide[data-sequence='1'] .content h1 {
+    margin: 1.5em 0;
+}
+
 .slide[data-sequence='12'] .container_12 .grid_6 {
     width: 350px;
 }
@@ -18,17 +26,29 @@ body {
     width: 570px;
 }
 
-.slide[data-sequence='29'] .content p {
+.slide[data-sequence='17'] .content > :nth-child(3) {
+    margin-left: 120px;
+}
+
+.slide[data-sequence='17'] .content > :nth-child(4) {
+    margin-left: 200px;
+}
+
+.slide[data-sequence='20'] .content p {
+    margin: 0 5px;
+}
+
+.slide[data-sequence='31'] .content p {
     margin: 0px;
 }
-.slide[data-sequence='29'] .content ul li {
+.slide[data-sequence='31'] .content ul li {
     font-size: 50%;
 }
 
-.slide[data-sequence='29'] .content ul li pre {
+.slide[data-sequence='31'] .content ul li pre {
     margin: .5em 40px;
 }
-.slide[data-sequence='30'] {
+.slide[data-sequence='32'] {
     opacity: .4 !important;
 }
 
@@ -43,6 +63,18 @@ body {
 img[alt="sugar"] {
     margin-left: 400px;
     margin-top: -200px;
+}
+
+img[alt="burglar"] {
+    position: absolute;
+    top: 330px;
+    left: 30px;
+}
+
+img[alt="burglar2"] {
+    position: absolute;
+    top: 600px;
+    right: 250px;
 }
 
 .smbullets > ul > li {

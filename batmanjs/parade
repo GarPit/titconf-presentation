@@ -1,8 +1,10 @@
 title "Batman.js"
 
 slides "new_javascript.md"
+slides "bad_javascript.md"
 slides "mvc.md"
 slides "frameworks.md"
+slides "more_frameworks.md"
 slides "batman.md"
 slides "about.md"
 slides "install.md"

@@ -6,7 +6,7 @@ description "Боремся с неорганизованной преступн
 # theme "hack"
 resources "resources"
 
-pause_message "Visit github.com/burtlo/parade"
+pause_message "Visit webgradus.ru"
 
 template "default", "default.erb"
 section "Вступление" do

@@ -1,6 +1,6 @@
 !SLIDE title-and-content bullets incremental
 
-# Копаем глубже.
+# Копаем глубже
 
 ```javascript
 user.constructor == User

@@ -1,4 +1,4 @@
-!SLIDE transition=fade bullets
+!SLIDE bullets
 
 # Спасибо за внимание!
 
