@@ -1,5 +1,6 @@
 title "Batman.js"
 
+slides "old_javascript.md"
 slides "new_javascript.md"
 slides "bad_javascript.md"
 slides "mvc.md"
