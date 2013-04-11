@@ -8,6 +8,7 @@ body {
 .slide {
     outline: 5px solid red;
     outline-offset: -10px;
+    height: 726px;
 }
 
 .slide[data-sequence='1'] .content .word7 {
@@ -18,46 +19,46 @@ body {
     margin: 1.5em 0;
 }
 
-.slide[data-sequence='12'] .container_12 .grid_6 {
+.slide[data-sequence='10'] .container_12 .grid_6 {
     width: 350px;
 }
 
-.slide[data-sequence='12'] .container_12 :last-child {
+.slide[data-sequence='10'] .container_12 :last-child {
     width: 570px;
 }
 
-.slide[data-sequence='17'] .content > :nth-child(3) {
+.slide[data-sequence='16'] .content > :nth-child(3) {
     margin-left: 120px;
 }
 
-.slide[data-sequence='17'] .content > :nth-child(4) {
+.slide[data-sequence='16'] .content > :nth-child(4) {
     margin-left: 200px;
 }
 
-.slide[data-sequence='20'] .content p {
+.slide[data-sequence='19'] .content p {
     margin: 0 5px;
 }
 
-.slide[data-sequence='31'] .content p {
+.slide[data-sequence='30'] .content p {
     margin: 0px;
 }
-.slide[data-sequence='31'] .content ul li {
+.slide[data-sequence='30'] .content ul li {
     font-size: 50%;
 }
 
-.slide[data-sequence='31'] .content ul li pre {
+.slide[data-sequence='30'] .content ul li pre {
     margin: .5em 40px;
 }
-.slide[data-sequence='32'] {
+.slide[data-sequence='31'] {
     opacity: .4 !important;
 }
 
 #supersized {
     position: absolute;
     top: 0px;
-    left: 288px;
+    left: 69.8px;
     width: 1024px;
-    height: 768px;
+    height: 726px;
 }
 
 img[alt="sugar"] {
@@ -73,7 +74,7 @@ img[alt="burglar"] {
 
 img[alt="burglar2"] {
     position: absolute;
-    top: 600px;
+    top: 570px;
     right: 250px;
 }
 
@@ -84,7 +85,7 @@ img[alt="burglar2"] {
 .branding {
     height: 50px;
     position: absolute;
-    top: 670px;
+    top: 650px;
     right: 10px;
     width: 1024px;
 }

@@ -1,4 +1,4 @@
-!SLIDE title-and-content
+!SLIDE title-and-content smbullets
 
 # Javascript MV* frameworks
 
