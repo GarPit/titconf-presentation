@@ -39,6 +39,10 @@ body {
     margin: 0 5px;
 }
 
+.slide[data-sequence='23'] .content ul li .word1 {
+    color: #47497c;
+}
+
 .slide[data-sequence='30'] .content p {
     margin: 0px;
 }
@@ -107,4 +111,8 @@ img[alt="rails"], img[alt="sinatra"], img[alt="html5"] {
 
 .wider {
     padding: 70px 0px;
+}
+
+#footer {
+    top: -66px;
 }
